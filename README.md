@@ -1,1 +1,1 @@
-# WFIRST-event-finder
+# WFIRST_Microlensing_Feature_Generator
